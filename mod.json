@@ -1,0 +1,24 @@
+{
+    "geode": "5.7.1",
+    "gd": {
+        "win": "2.2081",
+        "android": "2.2081",
+        "mac": "2.2081"
+    },
+    "id": "osnailcyargta.double-jump",
+    "name": "Double Jump",
+    "version": "v1.0.0",
+    "developer": "osnailcyargta",
+    "description": "Klik/tap dua kali untuk double jump di Geometry Dash",
+    "links": {
+        "source": "https://github.com/osnailcyargta-ctrl/double-jump-geode"
+    },
+    "settings": {
+        "double-jump-enabled": {
+            "name": "Enable Double Jump",
+            "description": "Aktifkan double jump",
+            "type": "bool",
+            "default": true
+        }
+    }
+}
